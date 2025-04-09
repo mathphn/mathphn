@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Matheus Pinheiro, and I'm a front-end developer and an undergraduate at UFRN (Federal University of Rio Grande do Norte - Brazil).</h2>
+<h2 align="left">Hello 👋! My name is Matheus Pinheiro, and I'm a software developer and an undergraduate at UFRN (Federal University of Rio Grande do Norte - Brazil).</h2>
 
 ###
 
